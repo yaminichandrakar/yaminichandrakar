@@ -8,5 +8,5 @@ Hi there 👋
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Excel, SQL, PowerBi, Python and Analysis.
 - 📫 How to reach me: +918964859288 or chandrakery8@gmail.com
-- 😄 All of my Projects are available at 
+- 😄 All of my Projects are available at https://yaminichandrakar.github.io/
 - 👩‍🎓 Know about my experience: https://tinyurl.com/YaminiResume
